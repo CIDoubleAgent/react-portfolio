@@ -5,7 +5,7 @@ function Portfolio() {
             <div id="work" class="portfolio-wrapper">
 
                 <h3 class="center-align light-blue-text text-darken-3">
-                Portfolio <i class="material-icons">work</i>
+                Portfolio <i class="material-icons">folder</i>
                 </h3>
 
                 <section class="row">
