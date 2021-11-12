@@ -59,8 +59,16 @@ header {
   margin-bottom: 70px;
 }
 
+#contact-card-wrapper {
+  margin-bottom: 100px;
+}
+
 #contact-info {
-  margin-bottom: 200px;
+  margin-bottom: 20px;
+}
+
+#card-body {
+  height: 300px;
 }
 
 #small-text {
