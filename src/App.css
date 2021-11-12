@@ -46,6 +46,15 @@ header {
   border-color: #03a9f4;
 }
 
+.bio {
+  margin: 30px
+}
+
+.skills {
+  margin: 0px 30px 30px
+  30px;
+}
+
 #contact-info {
   margin-bottom: 200px;
 }
