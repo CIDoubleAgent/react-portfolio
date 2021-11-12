@@ -24,7 +24,7 @@ function Contact() {
 
             <div id="contact-card-wrapper" class="row">
                 <div class="col s12 m8 offset-m2 center-align">
-                    <div class="card blue darken-3">
+                    <div class="card light-blue darken-3">
                         <div id="card-body" class="card-content white-text">
                             <span class="card-title">Leave a Message</span>
                             <div class="input-field col s12">
