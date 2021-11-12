@@ -55,6 +55,10 @@ header {
   30px;
 }
 
+.portfolio-wrapper {
+  margin-bottom: 70px;
+}
+
 #contact-info {
   margin-bottom: 200px;
 }
