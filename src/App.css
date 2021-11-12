@@ -1,38 +1,69 @@
-.App {
-  text-align: center;
+body {
+  background-image:url("https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/walpaper-light-tile.jpg?raw=true");
+  background-color: #cccccc;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+p {
+  font-size: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+header {
+  padding-top: 1px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#thumbnail {
+  height: 330px;
 }
 
-.App-link {
-  color: #61dafb;
+.card-content {
+  height: 140px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card-title {
+  margin-left: 10px;
+}
+
+#banner {
+  padding-top: 7px;
+}
+
+#subtitle {
+  padding-right: 4px;
+  padding-bottom: 8px;
+
+}
+
+#about-me-card,
+#profile-image,
+.hoverable {
+  border: solid;
+  border-color: #0277bd;
+}
+
+#about-me-card:hover,
+#profile-image:hover,
+.hoverable:hover {
+  border-color: #03a9f4;
+}
+
+#contact-info {
+  margin-bottom: 200px;
+}
+
+#small-text {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.footer-text {
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+.page-footer {
+  padding-bottom: 20px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
