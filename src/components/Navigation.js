@@ -1,24 +1,24 @@
 import React from 'react';
 
-function Navigation () {
+function Navigation ({ handlePageChange }) {
     return (
         <nav class="navigation col 12 grey lighten-2">  
-        <a id="small-text" class="col 4 light-blue-text text-darken-3" href="#about-me">
-            &nbsp;&nbsp; About Me &nbsp;
-        </a>
+        <button id="small-text" class="navbtn btn col 4 light-blue darken-3" onClick={() => handlePageChange('AboutMe')}>
+            About Me
+        </button>
     
-        <a id="small-text" class="col 4 light-blue-text text-darken-3" href="#work">
-            &nbsp; Portfolio &nbsp;
-        </a>
+        <button id="small-text" class="navbtn btn col 4 light-blue darken-3" onClick={() => handlePageChange('Portfolio')}>
+            Portfolio
+        </button>
     
-        <a id="small-text" class="col 4 light-blue-text text-darken-3" href="#contact-me">
-            &nbsp; Contact &nbsp;
-        </a>
+        <button id="small-text" class="navbtn btn col 4 light-blue darken-3" onClick={() => handlePageChange('Contact')}>
+            Contact
+        </button>
 
-        <a id="small-text" class="col 4 light-blue-text text-darken-3" href="https://docs.google.com/document/d/1IHctUDXitDshLIJZ_pgVyyoPuoAp94CtnxQC489VYgs/edit?usp=sharing">
-            &nbsp; Resume &nbsp;
-        </a> 
-    </nav>
+        <button id="small-text" class="navbtn btn col 4 light-blue darken-3" href="https://docs.google.com/document/d/1IHctUDXitDshLIJZ_pgVyyoPuoAp94CtnxQC489VYgs/edit?usp=sharing">
+            Resume
+        </button> 
+        </nav>
     )
 }
 
