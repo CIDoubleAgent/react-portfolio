@@ -3,10 +3,6 @@ body {
   background-color: #cccccc;
 }
 
-header {
-  padding-top: 1px;
-}
-
 .navbtn {
   margin-left: 20px;
   margin-bottom: 8px;
@@ -61,6 +57,10 @@ header {
 
 .portfolio-wrapper {
   margin-bottom: 20px;
+}
+
+#work {
+  margin-bottom: 90px;
 }
 
 #contact-card-wrapper {

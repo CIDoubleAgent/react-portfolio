@@ -9,7 +9,7 @@ function Portfolio() {
                 </h3>
 
                 <section class="row">
-                    <article class="col s12 m6">
+                    <article class="col s12 m8 offset-m2 l5 offset-l1">
                         <div class="card hoverable">
                             <div class="card-image">
                                 <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Crypt-ID_1.png?raw=true" alt="Crypt-Id" />
@@ -25,7 +25,7 @@ function Portfolio() {
                         </div>
                     </article>
                     
-                    <article class="col s12 m6">
+                    <article class="col s12 m8 offset-m2 l5">
                         <div class="card hoverable">
                             <div class="card-image">
                                 <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Kan(way)e_1.png?raw=true" alt="Kanwaye" />
@@ -41,7 +41,7 @@ function Portfolio() {
                         </div>
                     </article>
 
-                    <article class="col s12 m6">
+                    <article class="col s12 m8 offset-m2 l5 offset-l1">
                         <div class="card hoverable">
                             <div class="card-image">
                                 <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Weather%20Dash_2.png?raw=true" alt="Weather-Dashboard" />
@@ -57,7 +57,7 @@ function Portfolio() {
                         </div>
                     </article>
 
-                    <article class="col s12 m6">
+                    <article class="col s12 m8 offset-m2 l5">
                         <div class="card hoverable">
                             <div class="card-image">
                                 <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Note_Taker_3.png?raw=true" alt="Note-Taker" />
