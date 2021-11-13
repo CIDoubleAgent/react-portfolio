@@ -3,8 +3,12 @@ body {
   background-color: #cccccc;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
 .navbtn {
-  margin-left: 20px;
+  margin-left: 15px;
   margin-bottom: 8px;
 }
 
@@ -21,29 +25,32 @@ body {
 }
 
 #banner {
-  padding-top: 7px;
+  padding-top: 20px;
+  padding-left: 10px;
 }
 
 #subtitle {
-  padding-right: 4px;
-  padding-bottom: 8px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
 
+.profile-image-2 {
+  display: none;
+}
+
+#about-me {
+  margin-bottom: 100px;
 }
 
 #about-me-card {
   font-size: 20px;
 }
+
 #about-me-card,
 #profile-image,
 .hoverable {
   border: solid;
   border-color: #0277bd;
-}
-
-#about-me-card:hover,
-#profile-image:hover,
-.hoverable:hover {
-  border-color: #03a9f4;
 }
 
 .bio {
@@ -63,7 +70,7 @@ body {
   margin-bottom: 90px;
 }
 
-#contact-card-wrapper {
+#contact-me {
   margin-bottom: 100px;
 }
 
@@ -91,4 +98,27 @@ body {
   left: 0;
   bottom: 0;
   width: 100%;
+}
+
+
+
+@media screen and (max-width: 606px) {
+  .profile-image-1 {
+    display: none;
+  }
+  .profile-image-2 {
+    width: 300px;
+    height: auto;
+    display: inline;
+    margin-top: 50px;
+  }
+
+  #about-me-card {
+    width:max-content;
+    align-self: center;
+  }
+
+  .navigation {
+    height: 110px;
+  }
 }
