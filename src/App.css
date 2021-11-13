@@ -3,12 +3,13 @@ body {
   background-color: #cccccc;
 }
 
-p {
-  font-size: 20px;
-}
-
 header {
   padding-top: 1px;
+}
+
+.navbtn {
+  margin-left: 20px;
+  margin-bottom: 8px;
 }
 
 #thumbnail {
@@ -33,6 +34,9 @@ header {
 
 }
 
+#about-me-card {
+  font-size: 20px;
+}
 #about-me-card,
 #profile-image,
 .hoverable {
