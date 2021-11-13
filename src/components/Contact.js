@@ -13,16 +13,10 @@ function Contact() {
                     <a id="small-text" class="footer-text light-blue-text text-darken-3" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nzabkar51@gmail.com">
                         &nbsp; nzabkar51@gmail.com &nbsp;
                     </a>
-                    <a id="small-text" class="footer-text light-blue-text text-darken-3" href="https://github.com/CIDoubleAgent">
-                        &nbsp; GitHub &nbsp;
-                    </a>
-                    <a id="small-text" class="footer-text light-blue-text text-darken-3" href="https://www.linkedin.com/in/nicholas-zabkar-a730b457/">
-                        &nbsp; LinkedIn &nbsp;
-                    </a>
                 </div>
             </section>
 
-            <div id="contact-card-wrapper" class="row">
+            <div class="row">
                 <div class="col s12 m8 l6 offset-m2 offset-l3 center-align">
                     <div class="card light-blue darken-3">
                         <div id="card-body" class="card-content white-text">
