@@ -23,7 +23,7 @@ function Contact() {
             </section>
 
             <div id="contact-card-wrapper" class="row">
-                <div class="col s12 m8 offset-m2 center-align">
+                <div class="col s12 m8 l6 offset-m2 offset-l3 center-align">
                     <div class="card light-blue darken-3">
                         <div id="card-body" class="card-content white-text">
                             <span class="card-title">Leave a Message</span>
@@ -41,7 +41,7 @@ function Contact() {
                             </div>
                         </div>
                         <div class="card-action">
-                            <button>Submit</button>
+                            <button class="btn grey lighten-3 light-blue-text text-darken-2">Submit</button>
                         </div>
                     </div>
                 </div>
