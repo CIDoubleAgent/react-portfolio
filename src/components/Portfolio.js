@@ -76,14 +76,14 @@ function Portfolio() {
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Crypt-ID_1.png?raw=true" alt="Crypt-Id" />
+                            <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/app.fix_1.png?raw=true" alt="App.Fix" />
                         </div>
                         <span class="card-title light-blue-text text-darken-3">`App.Fix()`</span>
                         <div class="card-content">
                             <p>App.Fix is a tech blog app where people can post their tech issues and comment suggestions for solutions.</p>
                         </div>
                         <div class="card-action">
-                            <a href="https://sleepy-island-20575.herokuapp.com/">Deployed Application</a>
+                            <a href="https://obscure-citadel-44297.herokuapp.com/">Deployed Application</a>
                             <a class="right" href="https://github.com/CIDoubleAgent/App.Fix">GitHub Repository</a>
                         </div>
                     </div>
@@ -92,14 +92,14 @@ function Portfolio() {
                 <article class="col s12 m8 offset-m2 l5">
                     <div class="card hoverable">
                         <div class="card-image">
-                            <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Kan(way)e_1.png?raw=true" alt="Kanwaye" />
+                            <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/team-profile-generator.png?raw=true" alt="Team Profile Generator" />
                         </div>
                         <span class="card-title light-blue-text text-darken-3">My Team Profile Generator</span>
                         <div class="card-content">
                             <p>A back end application that generates a team profile based on user input.</p>
                         </div>
                         <div class="card-action">
-                            <a href="https://kelley-mcd.github.io/STANK-Music/">Deployed Application</a>
+                            <a href="/">Deployed Application</a>
                             <a class="right" href="https://github.com/CIDoubleAgent/My-Team-Profile-Generator">GitHub Repository</a>
                         </div>
                     </div>
