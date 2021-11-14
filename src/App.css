@@ -8,12 +8,10 @@ body::-webkit-scrollbar {
 }
 
 .navbtn {
-  margin-left: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
   margin-bottom: 8px;
-}
-
-#thumbnail {
-  height: 330px;
+  width: 140px;
 }
 
 .card-content {
@@ -66,6 +64,10 @@ body::-webkit-scrollbar {
   margin-bottom: 20px;
 }
 
+.card-content-weather {
+height: 151px;
+}
+
 #work {
   margin-bottom: 90px;
 }
@@ -100,9 +102,19 @@ body::-webkit-scrollbar {
   width: 100%;
 }
 
+@media screen and (max-width: 740px) {
+  .profile-image-1 {
+    display: none;
+  }
+  .profile-image-2 {
+    width: 300px;
+    height: auto;
+    display: inline;
+    margin-top: 50px;
+  }
+}
 
-
-@media screen and (max-width: 606px) {
+@media screen and (max-width: 599px) {
   .profile-image-1 {
     display: none;
   }
@@ -120,5 +132,17 @@ body::-webkit-scrollbar {
 
   .navigation {
     height: 110px;
+  }
+}
+
+@media screen and (max-width: 408px) {
+  .card-action {
+    height: 70px;
+  }
+}
+
+@media screen and (max-width: 299px) {
+  .navigation {
+    height: 220px;
   }
 }

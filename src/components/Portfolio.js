@@ -47,8 +47,8 @@ function Portfolio() {
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Weather%20Dash_2.png?raw=true" alt="Weather-Dashboard" />
                         </div>
                         <span class="card-title light-blue-text text-darken-3">Weather Dashboard</span>
-                        <div class="card-content">
-                            <p>A weather app with current as well as five day forecasts. Displays the temperature, humidity, wind speed and UV index for a selected city.</p>
+                        <div class="card-content card-content-weather">
+                            <p>A weather app with current as well as five day forecasts. Displays weather data for a selected city.</p>
                         </div>
                         <div class="card-action">
                             <a href="https://cidoubleagent.github.io/weather-dashboard/">Deployed Application</a>
