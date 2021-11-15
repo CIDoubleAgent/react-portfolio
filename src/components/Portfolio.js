@@ -78,7 +78,7 @@ function Portfolio() {
                         <div class="card-image">
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/app.fix_1.png?raw=true" alt="App.Fix" />
                         </div>
-                        <span class="card-title light-blue-text text-darken-3">`App.Fix()`</span>
+                        <span class="card-title light-blue-text text-darken-3">App.Fix()</span>
                         <div class="card-content">
                             <p>App.Fix is a tech blog app where people can post their tech issues and comment suggestions for solutions.</p>
                         </div>
