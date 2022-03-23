@@ -11,9 +11,6 @@ function Footer() {
                 <a id="small-text" class="footer-text white-text" href="https://www.linkedin.com/in/nicholas-zabkar-a730b457/">
                 LinkedIn
                 </a>
-                <a id="small-text" class="footer-text white-text" href="https://stackoverflow.com/users/16157775/nick-zabkar">
-                Stack Overflow
-                </a>
             </div>
         </footer>
         
