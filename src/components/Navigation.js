@@ -16,7 +16,7 @@ function Navigation({ handlePageChange }) {
                     Contact
                 </button>
 
-                <a id="small-text" class="navbtn btn col 4 light-blue darken-3" href="https://docs.google.com/document/d/1IHctUDXitDshLIJZ_pgVyyoPuoAp94CtnxQC489VYgs/edit?usp=sharing">
+                <a id="small-text" class="navbtn btn col 4 light-blue darken-3" href="https://docs.google.com/document/d/1IHctUDXitDshLIJZ_pgVyyoPuoAp94CtnxQC489VYgs/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
                     Resume
                 </a>
             </nav>
