@@ -2,14 +2,14 @@ import React from 'react'
 
 function Header() {
     return (
-        <header class="row grey darken-3">
+        <header class="row">
             <div id="banner">
-                <h2 class="light-blue-text">
+                <h2 class="cyan-text text-darken-3">
                 Nicholas Zabkar's
                 </h2>
         
                 <h4>
-                <span id="subtitle" class="right grey-text text-lighten-4">Web Developer Portfolio</span>
+                <span id="subtitle" class="right cyan-text text-darken-3">Web Developer Portfolio</span>
                 </h4>
             </div>
         </header>
