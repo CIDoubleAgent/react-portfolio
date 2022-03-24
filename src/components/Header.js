@@ -9,7 +9,7 @@ function Header() {
                 </h2>
         
                 <h4>
-                <span id="subtitle" class="right white-text">Web Developer Portfolio</span>
+                <span id="subtitle" class="right cyan-text text-darken-3">Web Developer Portfolio</span>
                 </h4>
             </div>
         </header>

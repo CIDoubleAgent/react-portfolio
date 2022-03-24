@@ -3,7 +3,7 @@ import React from 'react';
 function Navigation({ handlePageChange }) {
     return (
         
-            <nav class="navigation center-align col 12">
+            <nav class="navigation center-align col 12 grey darken-3">
                 <button id="small-text" class="navbtn btn col 4 cyan darken-3 grey-text text-lighten-5" onClick={() => handlePageChange('AboutMe')}>
                     About Me
                 </button>
