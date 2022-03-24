@@ -5,10 +5,10 @@ function Footer() {
         
         <footer class="page-footer grey darken-3">
             <div id="page-footer" class="container center-align">
-                <a id="small-text" class="footer-text cyan-text" href="https://github.com/CIDoubleAgent">
+                <a id="small-text" class="footer-text cyan-text text-darken-3" href="https://github.com/CIDoubleAgent">
                 GitHub
                 </a>
-                <a id="small-text" class="footer-text cyan-text" href="https://www.linkedin.com/in/nicholas-zabkar-a730b457/">
+                <a id="small-text" class="footer-text cyan-text text-darken-3" href="https://www.linkedin.com/in/nicholas-zabkar-a730b457/">
                 LinkedIn
                 </a>
             </div>

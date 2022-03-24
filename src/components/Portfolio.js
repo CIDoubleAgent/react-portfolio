@@ -4,7 +4,7 @@ function Portfolio() {
     return (
         <div id="work" class="portfolio-wrapper">
 
-            <h3 class="center-align light-blue-text text-darken-3">
+            <h3 class="center-align cyan-text text-darken-3">
             Portfolio <i class="material-icons">folder</i>
             </h3>
 

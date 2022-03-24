@@ -7,7 +7,7 @@ function AboutMe() {
             <div class="center-align col 6 offset-3">
                 <img id="profile-image" class="profile-image-2 responsive-img circle" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/profilePicMe_1.jpg?raw=true" alt="Nicholas Zabkar" />
             </div>
-            <h3 class="center-align light-blue-text text-darken-3">
+            <h3 class="center-align cyan-text text-darken-3">
             About Me <i class="material-icons">folder_shared</i>
             </h3>
             <section class="row valign-wrapper">

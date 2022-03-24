@@ -7,6 +7,10 @@ body::-webkit-scrollbar {
   display: none;
 }
 
+.navigation {
+  background-color: rgba(0,0,0,0);
+}
+
 .navbtn {
   margin-left: 5px;
   margin-right: 5px;
@@ -44,11 +48,9 @@ body::-webkit-scrollbar {
   font-size: 20px;
 }
 
-#about-me-card,
-#profile-image,
-.hoverable {
+#profile-image {
   border: solid;
-  border-color: #0277bd;
+  border-color: #78909c;
 }
 
 .bio {
@@ -95,7 +97,7 @@ height: 147px;
 }
 
 .page-footer {
-  padding-bottom: 20px;
+  padding: 3px;
   position: fixed;
   left: 0;
   bottom: 0;
