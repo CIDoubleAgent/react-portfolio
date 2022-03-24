@@ -23,15 +23,15 @@ function Contact() {
                             <span class="card-title">Leave a Message</span>
                             <div class="input-field col s12">
                                 <i class="material-icons prefix">account_circle</i>
-                                <input placeholder="Name" id="name" type="text" data-length="30" class="validate" />
+                                <input placeholder="Name" id="name" type="text" data-length="30" class="validate white-text" />
                             </div>
                             <div class="input-field col s12">
                                 <i class="material-icons prefix">email</i>
-                                <input placeholder="Email" id="email" type="text" data-length="30" class="validate" />
+                                <input placeholder="Email" id="email" type="text" data-length="30" class="validate white-text" />
                             </div>
                             <div class="input-field col s12">
                                 <i class="material-icons prefix">message</i>
-                                <input placeholder="Message" id="message" type="text" data-length="150" class="validate" />
+                                <input placeholder="Message" id="message" type="text" data-length="150" class="validate white-text" />
                             </div>
                         </div>
                         <div class="card-action">

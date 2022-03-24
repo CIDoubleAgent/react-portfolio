@@ -14,7 +14,7 @@ function AboutMe() {
                 <div class="col s12 m3">
                     <img id="profile-image" class="profile-image-1 responsive-img circle" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/profilePicMe_1.jpg?raw=true" alt="Nicholas Zabkar" />
                 </div>
-                <div id="about-me-card" class="center-align card col s12 m9">
+                <div id="about-me-card" class="center-align card col s12 m9 cyan darken-3 white-text">
                     <div class="bio">
                     BIO: I am a 35 year old web developer from Dover, NH and have been a carpenter by trade for most of my career. My hobbies include hiking the many beautiful trails and mountains of New Hampshire, playing basketball, cycling, wakeboarding, enjoying craft beer, and poking holes in movie plots.
                     </div>
