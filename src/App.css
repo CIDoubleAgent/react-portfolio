@@ -7,10 +7,6 @@ body::-webkit-scrollbar {
   display: none;
 }
 
-.navigation {
-  background-color: rgba(0,0,0,0);
-}
-
 .navbtn {
   margin-left: 5px;
   margin-right: 5px;
@@ -36,8 +32,12 @@ body::-webkit-scrollbar {
   padding-bottom: 10px;
 }
 
+.portfolio-wrapper {
+  margin-bottom: 20px;
+}
+
 #about-me {
-  margin-bottom: 100px;
+  margin-bottom: 80px;
 }
 
 #about-me-card {
@@ -71,8 +71,10 @@ body::-webkit-scrollbar {
   padding-bottom: 30px;
 }
 
-.portfolio-wrapper {
-  margin-bottom: 20px;
+.project-card {
+  border: solid;
+  border-radius: 7px;
+  border-color: #00838f;
 }
 
 .card-content-weather {
@@ -113,47 +115,37 @@ height: 147px;
   width: 100%;
 }
 
-@media screen and (max-width: 740px) {
-  .profile-image-1 {
-    display: none;
+@media screen and (max-width: 760px) {
+  #title {
+    font-size: 40px;
   }
-  .profile-image-2 {
-    width: 300px;
-    height: auto;
-    display: inline;
-    margin-top: 50px;
+  #subtitle {
+    font-size: 25px;
   }
 }
 
 @media screen and (max-width: 599px) {
-  .profile-image-1 {
-    display: none;
-  }
-  .profile-image-2 {
-    width: 300px;
-    height: auto;
-    display: inline;
-    margin-top: 50px;
-  }
-
-  #about-me-card {
-    width:max-content;
-    align-self: center;
-  }
-
   .navigation {
-    height: 110px;
+    padding-bottom: 112px;
+  }
+
+  #title {
+    font-size: 35px;
+  }
+  #subtitle {
+    font-size: 20px;
   }
 }
 
-@media screen and (max-width: 408px) {
+@media screen and (max-width: 420px) {
   .card-action {
-    height: 70px;
+    font-size: 69%;
   }
-}
 
-@media screen and (max-width: 299px) {
-  .navigation {
-    height: 220px;
+  #title {
+    font-size: 30px;
+  }
+  #subtitle {
+    font-size: 17px;
   }
 }
