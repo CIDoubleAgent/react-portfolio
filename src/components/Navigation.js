@@ -9,7 +9,7 @@ function Navigation({ handlePageChange }) {
                 </button>
 
                 <button id="small-text" class="navbtn btn col 4 cyan darken-3 grey-text text-lighten-5" onClick={() => handlePageChange('Portfolio')}>
-                    Portfolio
+                    Projects
                 </button>
 
                 <button id="small-text" class="navbtn btn col 4 cyan darken-3 grey-text text-lighten-5" onClick={() => handlePageChange('Contact')}>

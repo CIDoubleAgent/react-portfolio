@@ -82,12 +82,12 @@ body::-webkit-scrollbar {
   border-color: #00838f;
 }
 
-/* .cryptid2-card {
-  height: 147px;
-} */
+.cryptid2-card-content {
+  height: 129px;
+}
 
 .card-content-weather {
-height: 147px;
+height: 155px;
 }
 
 #work {

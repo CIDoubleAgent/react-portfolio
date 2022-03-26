@@ -5,18 +5,18 @@ function Portfolio() {
         <div id="work" class="portfolio-wrapper">
 
             <h3 class="center-align cyan-text text-darken-3">
-            Portfolio <i class="material-icons">folder</i>
+            Projects <i class="material-icons">folder</i>
             </h3>
 
             <section class="row">
 
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
-                    <div class="cryptid2-card project-card cyan darken-3 card hoverable">
+                    <div class="project-card cyan darken-3 card hoverable">
                     <h5 class="card-title white-text">Crypt-ID 2</h5>
                         <div class="card-image">
-                            <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/Cryptid2.png?raw=true" alt="cryptid2" />
+                            <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/Cryptid2_2.png?raw=true" alt="cryptid2" />
                         </div>
-                        <div class="card-content white-text">
+                        <div class="card-content cryptid2-card-content white-text">
                             <p>Crypt-ID 2 is an updated version of the original cryptid concept built with REACT with a Focus on adapting to more modern technologies, Incorporating new features and creating a more polished UI.</p>
                         </div>
                         <div class="card-action">
@@ -42,7 +42,7 @@ function Portfolio() {
                     </div>
                 </article>
                 
-                <article class="col s12 m8 offset-m2 l5">
+                <article class="col s12 m8 offset-m2 l5 offset-l1">
                     <div class="project-card cyan darken-3 card hoverable">
                     <h5 class="card-title white-text">Kan(way)e</h5>
                         <div class="card-image">
@@ -58,7 +58,7 @@ function Portfolio() {
                     </div>
                 </article>
 
-                <article class="col s12 m8 offset-m2 l5 offset-l1">
+                <article class="col s12 m8 offset-m2 l5">
                     <div class="project-card cyan darken-3 card hoverable">
                     <h5 class="card-title white-text">Weather Dashboard</h5>
                         <div class="card-image">
@@ -74,7 +74,7 @@ function Portfolio() {
                     </div>
                 </article>
 
-                <article class="col s12 m8 offset-m2 l5">
+                <article class="col s12 m8 offset-m2 l5 offset-l1">
                     <div class="project-card cyan darken-3 card hoverable">
                     <h5 class="card-title white-text">Note Taker</h5>
                         <div class="card-image">
@@ -90,7 +90,7 @@ function Portfolio() {
                     </div>
                 </article>
 
-                <article class="col s12 m8 offset-m2 l5 offset-l1">
+                <article class="col s12 m8 offset-m2 l5">
                     <div class="project-card cyan darken-3 card hoverable">
                     <h5 class="card-title white-text">App.Fix()</h5>
                         <div class="card-image">
@@ -106,7 +106,7 @@ function Portfolio() {
                     </div>
                 </article>
 
-                <article class="col s12 m8 offset-m2 l5">
+                <article class="col s12 m8 offset-m2 l5 offset-l1">
                     <div class="project-card cyan darken-3 card hoverable">
                     <h5 class="card-title white-text">My Team Profile Generator</h5>
                         <div class="card-image">
