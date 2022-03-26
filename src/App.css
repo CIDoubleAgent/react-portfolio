@@ -127,6 +127,26 @@ height: 155px;
 }
 
 /* Media Queries */
+
+
+@media screen and (min-width: 2500px) {
+  .card-content-weather {
+    height: 163px;
+  }
+}
+
+@media screen and (min-width: 1812px) {
+  .card-content-weather {
+    height: 163px;
+  }
+}
+
+@media screen and (min-width: 1778px) {
+  .cryptid2-card-content {
+    height: 123px;
+  }
+}
+
 @media screen and (max-width: 760px) {
   #title {
     font-size: 40px;
