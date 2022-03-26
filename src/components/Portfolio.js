@@ -12,12 +12,12 @@ function Portfolio() {
 
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
                     <div class="project-card cyan darken-3 card hoverable">
-                    <h5 class="card-title white-text">Crypt-ID2</h5>
+                    <h5 class="card-title white-text">Crypt-ID 2</h5>
                         <div class="card-image">
-                            <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Crypt-ID_1.png?raw=true" alt="Crypt-Id" />
+                            <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/Cryptid2.png?raw=true" alt="cryptid2" />
                         </div>
                         <div class="card-content white-text">
-                            <p>Update description Here.</p>
+                            <p>Crypt-ID 2 is an updated version of the original cryptid concept built with REACT with a Focus on adapting to more modern technologies, Incorporating new features and creating a more polished UI.</p>
                         </div>
                         <div class="card-action">
                             <a href="https://calm-tundra-54931.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
