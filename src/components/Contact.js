@@ -16,7 +16,7 @@ function Contact() {
                 </div>
             </section>
 
-            <div class="row">
+            {/* <div class="row">
                 <div class="col s12 m8 l6 offset-m2 offset-l3 center-align">
                     <div class="card cyan darken-3">
                         <div id="card-body" class="card-content white-text">
@@ -39,7 +39,7 @@ function Contact() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </div>
 
     )
