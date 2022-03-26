@@ -82,6 +82,10 @@ body::-webkit-scrollbar {
   border-color: #00838f;
 }
 
+/* .cryptid2-card {
+  height: 147px;
+} */
+
 .card-content-weather {
 height: 147px;
 }

@@ -11,7 +11,7 @@ function Portfolio() {
             <section class="row">
 
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
-                    <div class="project-card cyan darken-3 card hoverable">
+                    <div class="cryptid2-card project-card cyan darken-3 card hoverable">
                     <h5 class="card-title white-text">Crypt-ID 2</h5>
                         <div class="card-image">
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/Cryptid2.png?raw=true" alt="cryptid2" />
@@ -26,7 +26,7 @@ function Portfolio() {
                     </div>
                 </article>
 
-                <article class="col s12 m8 offset-m2 l5 offset-l1">
+                <article class="col s12 m8 offset-m2 l5">
                     <div class="project-card cyan darken-3 card hoverable">
                     <h5 class="card-title white-text">Crypt-ID</h5>
                         <div class="card-image">
