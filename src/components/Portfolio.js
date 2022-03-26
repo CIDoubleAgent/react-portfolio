@@ -9,6 +9,23 @@ function Portfolio() {
             </h3>
 
             <section class="row">
+
+                <article class="col s12 m8 offset-m2 l5 offset-l1">
+                    <div class="project-card cyan darken-3 card hoverable">
+                    <h5 class="card-title white-text">Crypt-ID2</h5>
+                        <div class="card-image">
+                            <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Crypt-ID_1.png?raw=true" alt="Crypt-Id" />
+                        </div>
+                        <div class="card-content white-text">
+                            <p>Update description Here.</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="https://calm-tundra-54931.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
+                            <a class="right" href="https://github.com/CIDoubleAgent/cryptid2" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+                        </div>
+                    </div>
+                </article>
+
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
                     <div class="project-card cyan darken-3 card hoverable">
                     <h5 class="card-title white-text">Crypt-ID</h5>

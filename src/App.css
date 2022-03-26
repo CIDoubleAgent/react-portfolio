@@ -1,3 +1,4 @@
+/* General */
 body {
   background-image:url("https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/appwalpaper-greyabstract.jpg?raw=true");
   background-color: #cccccc;
@@ -5,13 +6,6 @@ body {
 
 body::-webkit-scrollbar {
   display: none;
-}
-
-.navbtn {
-  margin-left: 5px;
-  margin-right: 5px;
-  margin-bottom: 4px;
-  width: 140px;
 }
 
 .card-content {
@@ -22,6 +16,7 @@ body::-webkit-scrollbar {
   margin-left: 10px;
 }
 
+/* Header */
 #banner {
   padding-top: 20px;
   padding-left: 10px;
@@ -32,10 +27,15 @@ body::-webkit-scrollbar {
   padding-bottom: 10px;
 }
 
-.portfolio-wrapper {
-  margin-bottom: 20px;
+/* Navigation */
+.navbtn {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 4px;
+  width: 140px;
 }
 
+/* About Me Section */
 #about-me {
   margin-bottom: 80px;
 }
@@ -71,6 +71,11 @@ body::-webkit-scrollbar {
   padding-bottom: 30px;
 }
 
+/* Projects section */
+.portfolio-wrapper {
+  margin-bottom: 20px;
+}
+
 .project-card {
   border: solid;
   border-radius: 7px;
@@ -85,6 +90,7 @@ height: 147px;
   margin-bottom: 90px;
 }
 
+/* Contact */
 #contact-me {
   margin-bottom: 100px;
 }
@@ -97,14 +103,15 @@ height: 147px;
   height: 300px;
 }
 
-#small-text {
-  font-weight: bold;
-  font-size: 20px;
-}
-
+/* Footer */
 .footer-text {
   margin-left: 4%;
   margin-right: 4%;
+}
+
+#small-text {
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .page-footer {
@@ -115,6 +122,7 @@ height: 147px;
   width: 100%;
 }
 
+/* Media Queries */
 @media screen and (max-width: 760px) {
   #title {
     font-size: 40px;
