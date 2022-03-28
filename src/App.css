@@ -15,54 +15,42 @@ body::-webkit-scrollbar {
 
 /* Header */
 #banner {
-  padding-top: 20px;
   padding-left: 10px;
-}
-
-#subtitle {
   padding-right: 10px;
-  padding-bottom: 10px;
 }
 
 /* Navigation */
 .navbtn {
-  padding-bottom: 38px;
-  margin-left: 5px;
-  margin-right: 5px;
-  margin-bottom: 10px;
+  margin-top: 10px;
+  padding-bottom: 37px;
   width: 140px;
   border: solid;
-  border-color: #00bcd4;
+  border-color: #000000;
   border-width: 2px;
+  border-radius: 25px;
+  color: #fff;
+}
+
+.navbtn:focus {
+  color: #00bcd4;
+}
+
+.navbtn:hover {
+  border-color: #00bcd4;
 }
 
 /* About Me Section */
 #about-me {
-  margin-bottom: 80px;
-}
-
-#about-me-card {
-  font-size: 20px;
-  /* border: solid;
-  border-color: #00838f;
-  border-radius: 7px; */
+  margin-bottom: 30px;
 }
 
 #profile-image {
-  border: solid;
-  /* border-color: #dce775; */
-  border-color: #00bcd4;
+  /* border: solid;
+  border-color: #00bcd4; */
   border-radius: 7px;
-}
-
-.profile-image-1 {
   margin-top: 30px;
   margin-bottom: 15px;
   max-height: 200px;
-}
-
-.profile-image-2 {
-  display: none;
 }
 
 .bio {
@@ -83,7 +71,12 @@ body::-webkit-scrollbar {
 
 .project-card {
   border: solid;
+  border-width: 2px;
   border-radius: 7px;
+  border-color: #000;
+}
+
+.project-card:hover {
   border-color: #00bcd4;
 }
 
@@ -114,11 +107,32 @@ height: 155px;
 }
 
 #contact-info {
+  margin-top: 50px;
   margin-bottom: 20px;
 }
 
 #card-body {
   height: 300px;
+}
+
+.submit-btn {
+  padding-bottom: 37px;
+  border: solid;
+  border-color: #000;
+  border-width: 2px;
+  border-radius: 25px;
+  width: 120px;
+}
+
+.submit-btn:hover {
+  color: #00bcd4;
+  background-color: #000;
+  border-color: #00bcd4;
+}
+
+.submit-btn:active {
+  color: #424242;
+  border-color: #424242;
 }
 
 /* Footer */
@@ -128,7 +142,7 @@ height: 155px;
 }
 
 .page-footer {
-  padding: 3px;
+  padding-top: 2px;
   position: fixed;
   left: 0;
   bottom: 0;
@@ -166,10 +180,6 @@ height: 155px;
 }
 
 @media screen and (max-width: 599px) {
-  .navigation {
-    padding-bottom: 112px;
-  }
-
   #title {
     font-size: 35px;
   }

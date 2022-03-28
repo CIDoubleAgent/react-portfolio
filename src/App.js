@@ -6,7 +6,7 @@ import ContentContainer from './components/ContentContainer';
 function App() {
   return (
     <div className="App">
-      <Header />
+      {/* <Header /> */}
       <ContentContainer />
       <Footer />
     </div>

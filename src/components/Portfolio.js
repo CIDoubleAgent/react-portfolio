@@ -4,15 +4,15 @@ function Portfolio() {
     return (
         <div id="work" class="portfolio-wrapper">
 
-            <h3 class="center-align cyan-text">
+            {/* <h3 class="center-align cyan-text">
             Projects <i class="material-icons">folder</i>
-            </h3>
+            </h3> */}
 
             <section class="row">
 
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
                     <div class="project-card black card hoverable">
-                    <div class="card-title cyan-text">
+                    <div class="card-title white-text">
                         Crypt-ID 2
                     </div>
                         <div class="card-image">
@@ -30,7 +30,7 @@ function Portfolio() {
 
                 <article class="col s12 m8 offset-m2 l5">
                     <div class="project-card black card hoverable">
-                    <div class="card-title cyan-text">
+                    <div class="card-title white-text">
                         Crypt-ID
                     </div>
                         <div class="card-image">
@@ -48,7 +48,7 @@ function Portfolio() {
                 
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
                     <div class="project-card black card hoverable">
-                    <div class="card-title cyan-text">
+                    <div class="card-title white-text">
                         Kan(way)e
                     </div>
                         <div class="card-image">
@@ -66,7 +66,7 @@ function Portfolio() {
 
                 <article class="col s12 m8 offset-m2 l5">
                     <div class="project-card black card hoverable">
-                    <div class="card-title cyan-text">
+                    <div class="card-title white-text">
                         Weather Dashboard
                     </div>
                         <div class="card-image">
@@ -84,7 +84,7 @@ function Portfolio() {
 
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
                     <div class="project-card black card hoverable">
-                    <div class="card-title cyan-text">
+                    <div class="card-title white-text">
                         Note Taker
                     </div>
                         <div class="card-image">
@@ -102,7 +102,7 @@ function Portfolio() {
 
                 <article class="col s12 m8 offset-m2 l5">
                     <div class="project-card black card hoverable">
-                    <div class="card-title cyan-text">
+                    <div class="card-title white-text">
                         App.Fix()
                     </div>
                         <div class="card-image">
@@ -120,7 +120,7 @@ function Portfolio() {
 
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
                     <div class="project-card black card hoverable">
-                    <div class="card-title cyan-text">
+                    <div class="card-title white-text">
                         My Team Profile Generator
                     </div>
                         <div class="card-image">

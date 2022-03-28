@@ -4,9 +4,9 @@ function Contact() {
     return (
 
         <div id="contact-me">
-            <h3 class="center-align cyan-text">
+            {/* <h3 class="center-align cyan-text">
             Contact Me <i class="material-icons">contact_mail</i>
-            </h3>
+            </h3> */}
 
             <section id="contact-info" class="center-align">
                 <div class="col 12">
@@ -18,7 +18,7 @@ function Contact() {
 
             {/* <div class="row">
                 <div class="col s12 m8 l6 offset-m2 offset-l3 center-align">
-                    <div class="card cyan darken-3">
+                    <div class="card black">
                         <div id="card-body" class="card-content white-text">
                             <span class="card-title">Leave a Message</span>
                             <div class="input-field col s12">
@@ -35,7 +35,7 @@ function Contact() {
                             </div>
                         </div>
                         <div class="card-action">
-                            <button class="btn grey lighten-3 cyan-text text-darken-3">Submit</button>
+                            <button id="small-text" class="btn submit-btn black">Submit</button>
                         </div>
                     </div>
                 </div>
