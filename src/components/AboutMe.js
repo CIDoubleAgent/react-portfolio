@@ -8,7 +8,7 @@ function AboutMe() {
             {/* About Me <i class="material-icons">folder_shared</i> */}
             Nicholas Zabkar
             </h3>
-            <section class="col">
+            <section class="container col">
                 <div id="about-me-card" class="card col s12 m9 black white-text">
                 <div class="col s12 m3 center-align">
                     <img id="profile-image" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/profilePicMe_1.jpg?raw=true" alt="Nicholas Zabkar" />

@@ -2,7 +2,7 @@ import React from 'react'
 
 function Portfolio() {
     return (
-        <div id="work" class="portfolio-wrapper">
+        <div id="work" class="container portfolio-wrapper">
 
             {/* <h3 class="center-align cyan-text">
             Projects <i class="material-icons">folder</i>
@@ -22,8 +22,8 @@ function Portfolio() {
                             <p>Crypt-ID 2 is an updated version of the original cryptid concept built with REACT in a mern stack with a Focus on adapting to more modern technologies, Incorporating new features and creating a more polished UI.</p>
                         </div>
                         <div class="card-action">
-                            <a href="https://calm-tundra-54931.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
-                            <a class="right" href="https://github.com/CIDoubleAgent/cryptid2" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+                            <a class="cyan-text" href="https://calm-tundra-54931.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
+                            <a class="cyan-text right" href="https://github.com/CIDoubleAgent/cryptid2" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
                         </div>
                     </div>
                 </article>
@@ -40,8 +40,8 @@ function Portfolio() {
                             <p>Crypt-ID was designed for loging your strange experiences and reading about other peoples encounters.</p>
                         </div>
                         <div class="card-action">
-                            <a href="https://sleepy-island-20575.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
-                            <a class="right" href="https://github.com/CIDoubleAgent/Crypt-ID" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+                            <a class="cyan-text" href="https://sleepy-island-20575.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
+                            <a class="cyan-text right" href="https://github.com/CIDoubleAgent/Crypt-ID" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
                         </div>
                     </div>
                 </article>
@@ -58,8 +58,8 @@ function Portfolio() {
                             <p>An app for finding new music by genre, or alternatively just Kanye West songs.</p>
                         </div>
                         <div class="card-action">
-                            <a href="https://kelley-mcd.github.io/STANK-Music/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
-                            <a class="right" href="https://github.com/CIDoubleAgent/STANK-Music" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+                            <a class="cyan-text" href="https://kelley-mcd.github.io/STANK-Music/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
+                            <a class="cyan-text right" href="https://github.com/CIDoubleAgent/STANK-Music" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
                         </div>
                     </div>
                 </article>
@@ -76,8 +76,8 @@ function Portfolio() {
                             <p>A weather app with current as well as five day forecasts. Displays weather data for a selected city.</p>
                         </div>
                         <div class="card-action">
-                            <a href="https://cidoubleagent.github.io/weather-dashboard/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
-                            <a class="right" href="https://github.com/CIDoubleAgent/weather-dashboard" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+                            <a class="cyan-text" href="https://cidoubleagent.github.io/weather-dashboard/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
+                            <a class="cyan-text right" href="https://github.com/CIDoubleAgent/weather-dashboard" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
                         </div>
                     </div>
                 </article>
@@ -94,8 +94,8 @@ function Portfolio() {
                             <p>A note taker App designed for simplicity, clarity and convenience. Add or delete your notes.</p>
                         </div>
                         <div class="card-action">
-                            <a href="https://lit-fortress-73592.herokuapp.com/notes" target="_blank" rel="noopener noreferrer">Deployed Application</a>
-                            <a class="right" href="https://github.com/CIDoubleAgent/Note-Taker" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+                            <a class="cyan-text" href="https://lit-fortress-73592.herokuapp.com/notes" target="_blank" rel="noopener noreferrer">Deployed Application</a>
+                            <a class="cyan-text right" href="https://github.com/CIDoubleAgent/Note-Taker" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
                         </div>
                     </div>
                 </article>
@@ -112,8 +112,8 @@ function Portfolio() {
                             <p>App.Fix is a tech blog app where people can post their tech issues and comment suggestions for solutions.</p>
                         </div>
                         <div class="card-action">
-                            <a href="https://polar-refuge-49734.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
-                            <a class="right" href="https://github.com/CIDoubleAgent/App.Fix" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+                            <a class="cyan-text" href="https://polar-refuge-49734.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
+                            <a class="cyan-text right" href="https://github.com/CIDoubleAgent/App.Fix" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
                         </div>
                     </div>
                 </article>
@@ -130,8 +130,8 @@ function Portfolio() {
                             <p>A back end application that generates a team profile based on user input.</p>
                         </div>
                         <div class="card-action">
-                            <a>No Deployed Version</a>
-                            <a class="right" href="https://github.com/CIDoubleAgent/My-Team-Profile-Generator" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+                            <a class="cyan-text">No Deployed Version</a>
+                            <a class="cyan-text right" href="https://github.com/CIDoubleAgent/My-Team-Profile-Generator" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
                         </div>
                     </div>
                 </article>
