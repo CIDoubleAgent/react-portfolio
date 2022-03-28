@@ -54,11 +54,15 @@ body::-webkit-scrollbar {
 }
 
 .bio {
+  font-size: 23px;
   margin-left: 30px;
   margin-bottom: 30px;
+  font-weight: 350;
 }
 
 .skills {
+  font-size: 23px;
+  font-weight: 350;
   margin: 0px 30px 30px
   30px;
   padding-bottom: 30px;
@@ -72,6 +76,7 @@ body::-webkit-scrollbar {
   border-width: 2px;
   border-radius: 7px;
   border-color: #000;
+  height: 500px;
 }
 
 .project-card:hover {
@@ -85,14 +90,6 @@ body::-webkit-scrollbar {
 .card-title {
   margin-left: 10px;
   margin-bottom: 5px;
-}
-
-.cryptid2-card-content {
-  height: 129px;
-}
-
-.card-content-weather {
-height: 155px;
 }
 
 #work {
@@ -148,53 +145,81 @@ height: 155px;
 }
 
 /* Media Queries */
-
-
-@media screen and (min-width: 2500px) {
-  .card-content-weather {
-    height: 163px;
+@media screen and (max-width: 1461px) {
+  .card-action {
+    font-size: 12px;
   }
 }
 
-@media screen and (min-width: 1812px) {
-  .card-content-weather {
-    height: 163px;
+@media screen and (max-width: 1253px) {
+  .card-action {
+    font-size: 10px;
   }
 }
 
-@media screen and (min-width: 1778px) {
-  .cryptid2-card-content {
-    height: 123px;
+@media screen and (max-width: 1111px) {
+  .card-action {
+    font-size: 9px;
   }
 }
 
-@media screen and (max-width: 760px) {
-  #title {
-    font-size: 40px;
-  }
-  #subtitle {
-    font-size: 25px;
+@media screen and (max-width: 1042px) {
+  .card-action {
+    font-size: 8px;
   }
 }
 
-@media screen and (max-width: 599px) {
-  #title {
+@media screen and (max-width: 992px) {
+  .card-action {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 749px) {
+  .card-action {
+    font-size: 11px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .card-action {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 559px) {
+  .navbtn {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+}
+
+@media screen and (max-width: 473px) {
+  .card-content {
+    height: 180px;
+  }
+}
+
+@media screen and (max-width: 404px) {
+  .card-action {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .navbtn {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+}
+
+@media screen and (max-width: 359px) {
+  .myName {
     font-size: 35px;
   }
-  #subtitle {
-    font-size: 20px;
-  }
-}
 
-@media screen and (max-width: 420px) {
   .card-action {
-    font-size: 69%;
-  }
-
-  #title {
-    font-size: 30px;
-  }
-  #subtitle {
-    font-size: 17px;
+    font-size: 8px;
   }
 }
+

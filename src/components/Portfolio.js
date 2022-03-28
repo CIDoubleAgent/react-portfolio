@@ -18,7 +18,7 @@ function Portfolio() {
                         <div class="card-image">
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/Cryptid2_2.png?raw=true" alt="cryptid2" />
                         </div>
-                        <div class="card-content cryptid2-card-content white-text">
+                        <div class="card-content white-text">
                             <p>Crypt-ID 2 is an updated version of the original cryptid concept built with REACT in a mern stack with a Focus on adapting to more modern technologies, Incorporating new features and creating a more polished UI.</p>
                         </div>
                         <div class="card-action">
@@ -72,7 +72,7 @@ function Portfolio() {
                         <div class="card-image">
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Weather%20Dash_2.png?raw=true" alt="Weather-Dashboard" />
                         </div>
-                        <div class="card-content white-text card-content-weather">
+                        <div class="card-content white-text">
                             <p>A weather app with current as well as five day forecasts. Displays weather data for a selected city.</p>
                         </div>
                         <div class="card-action">

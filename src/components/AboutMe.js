@@ -4,12 +4,12 @@ function AboutMe() {
     return (
             
         <div id="about-me" class="container">
-            <h3 class="center-align cyan-text">
+            <h3 class="myName center-align cyan-text">
             {/* About Me <i class="material-icons">folder_shared</i> */}
             Nicholas Zabkar
             </h3>
             <section class="container col">
-                <div id="about-me-card" class="card col s12 m9 black white-text">
+                <div class="card col s12 m9 black white-text">
                 <div class="col s12 m3 center-align">
                     <img id="profile-image" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/profilePicMe_1.jpg?raw=true" alt="Nicholas Zabkar" />
                 </div>
