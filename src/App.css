@@ -1,19 +1,16 @@
 /* General */
 body {
-  background-image:url("https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/appwalpaper-greyabstract.jpg?raw=true");
-  background-color: #cccccc;
+  /* background-image:url("https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/appwalpaper-greyabstract.jpg?raw=true"); */
+  background-color: #000000;
 }
 
 body::-webkit-scrollbar {
   display: none;
 }
 
-.card-content {
-  height: 140px;
-}
-
-.card-title {
-  margin-left: 10px;
+#small-text {
+  font-weight:500;
+  font-size: 18px;
 }
 
 /* Header */
@@ -29,10 +26,14 @@ body::-webkit-scrollbar {
 
 /* Navigation */
 .navbtn {
+  padding-bottom: 38px;
   margin-left: 5px;
   margin-right: 5px;
-  margin-bottom: 4px;
+  margin-bottom: 10px;
   width: 140px;
+  border: solid;
+  border-color: #00bcd4;
+  border-width: 2px;
 }
 
 /* About Me Section */
@@ -42,12 +43,16 @@ body::-webkit-scrollbar {
 
 #about-me-card {
   font-size: 20px;
-  border-radius: 7px;
+  /* border: solid;
+  border-color: #00838f;
+  border-radius: 7px; */
 }
 
 #profile-image {
   border: solid;
-  border-color: #dce775;
+  /* border-color: #dce775; */
+  border-color: #00bcd4;
+  border-radius: 7px;
 }
 
 .profile-image-1 {
@@ -79,7 +84,16 @@ body::-webkit-scrollbar {
 .project-card {
   border: solid;
   border-radius: 7px;
-  border-color: #00838f;
+  border-color: #00bcd4;
+}
+
+.card-content {
+  height: 140px;
+}
+
+.card-title {
+  margin-left: 10px;
+  margin-bottom: 5px;
 }
 
 .cryptid2-card-content {
@@ -111,11 +125,6 @@ height: 155px;
 .footer-text {
   margin-left: 4%;
   margin-right: 4%;
-}
-
-#small-text {
-  font-weight: bold;
-  font-size: 20px;
 }
 
 .page-footer {

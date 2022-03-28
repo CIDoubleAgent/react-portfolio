@@ -4,20 +4,22 @@ function Portfolio() {
     return (
         <div id="work" class="portfolio-wrapper">
 
-            <h3 class="center-align cyan-text text-darken-3">
+            <h3 class="center-align cyan-text">
             Projects <i class="material-icons">folder</i>
             </h3>
 
             <section class="row">
 
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
-                    <div class="project-card cyan darken-3 card hoverable">
-                    <h5 class="card-title white-text">Crypt-ID 2</h5>
+                    <div class="project-card black card hoverable">
+                    <div class="card-title cyan-text">
+                        Crypt-ID 2
+                    </div>
                         <div class="card-image">
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/Cryptid2_2.png?raw=true" alt="cryptid2" />
                         </div>
                         <div class="card-content cryptid2-card-content white-text">
-                            <p>Crypt-ID 2 is an updated version of the original cryptid concept built with REACT with a Focus on adapting to more modern technologies, Incorporating new features and creating a more polished UI.</p>
+                            <p>Crypt-ID 2 is an updated version of the original cryptid concept built with REACT in a mern stack with a Focus on adapting to more modern technologies, Incorporating new features and creating a more polished UI.</p>
                         </div>
                         <div class="card-action">
                             <a href="https://calm-tundra-54931.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed Application</a>
@@ -27,8 +29,10 @@ function Portfolio() {
                 </article>
 
                 <article class="col s12 m8 offset-m2 l5">
-                    <div class="project-card cyan darken-3 card hoverable">
-                    <h5 class="card-title white-text">Crypt-ID</h5>
+                    <div class="project-card black card hoverable">
+                    <div class="card-title cyan-text">
+                        Crypt-ID
+                    </div>
                         <div class="card-image">
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Crypt-ID_1.png?raw=true" alt="Crypt-Id" />
                         </div>
@@ -43,8 +47,10 @@ function Portfolio() {
                 </article>
                 
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
-                    <div class="project-card cyan darken-3 card hoverable">
-                    <h5 class="card-title white-text">Kan(way)e</h5>
+                    <div class="project-card black card hoverable">
+                    <div class="card-title cyan-text">
+                        Kan(way)e
+                    </div>
                         <div class="card-image">
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Kan(way)e_1.png?raw=true" alt="Kanwaye" />
                         </div>
@@ -59,8 +65,10 @@ function Portfolio() {
                 </article>
 
                 <article class="col s12 m8 offset-m2 l5">
-                    <div class="project-card cyan darken-3 card hoverable">
-                    <h5 class="card-title white-text">Weather Dashboard</h5>
+                    <div class="project-card black card hoverable">
+                    <div class="card-title cyan-text">
+                        Weather Dashboard
+                    </div>
                         <div class="card-image">
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Weather%20Dash_2.png?raw=true" alt="Weather-Dashboard" />
                         </div>
@@ -75,8 +83,10 @@ function Portfolio() {
                 </article>
 
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
-                    <div class="project-card cyan darken-3 card hoverable">
-                    <h5 class="card-title white-text">Note Taker</h5>
+                    <div class="project-card black card hoverable">
+                    <div class="card-title cyan-text">
+                        Note Taker
+                    </div>
                         <div class="card-image">
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/Note_Taker_3.png?raw=true" alt="Note-Taker" />
                         </div>
@@ -91,8 +101,10 @@ function Portfolio() {
                 </article>
 
                 <article class="col s12 m8 offset-m2 l5">
-                    <div class="project-card cyan darken-3 card hoverable">
-                    <h5 class="card-title white-text">App.Fix()</h5>
+                    <div class="project-card black card hoverable">
+                    <div class="card-title cyan-text">
+                        App.Fix()
+                    </div>
                         <div class="card-image">
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/app.fix_1.png?raw=true" alt="App.Fix" />
                         </div>                  
@@ -107,8 +119,10 @@ function Portfolio() {
                 </article>
 
                 <article class="col s12 m8 offset-m2 l5 offset-l1">
-                    <div class="project-card cyan darken-3 card hoverable">
-                    <h5 class="card-title white-text">My Team Profile Generator</h5>
+                    <div class="project-card black card hoverable">
+                    <div class="card-title cyan-text">
+                        My Team Profile Generator
+                    </div>
                         <div class="card-image">
                             <img id="thumbnail" class="responsive-img" src="https://github.com/CIDoubleAgent/react-portfolio/blob/main/src/components/images/team-profile-generator.png?raw=true" alt="Team Profile Generator" />
                         </div>

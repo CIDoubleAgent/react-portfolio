@@ -4,13 +4,13 @@ function Contact() {
     return (
 
         <div id="contact-me">
-            <h3 class="center-align cyan-text text-darken-3">
+            <h3 class="center-align cyan-text">
             Contact Me <i class="material-icons">contact_mail</i>
             </h3>
 
             <section id="contact-info" class="center-align">
                 <div class="col 12">
-                    <a id="small-text" class="footer-text cyan-text text-darken-3" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nzabkar51@gmail.com">
+                    <a id="small-text" class="footer-text cyan-text" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nzabkar51@gmail.com">
                         &nbsp; nzabkar51@gmail.com &nbsp;
                     </a>
                 </div>
