@@ -4,7 +4,7 @@ function AboutMe() {
     return (
             
         <div id="about-me" class="container">
-            <h3 class="myName center-align cyan-text">
+            <h3 class="myName center-align white-text">
             {/* About Me <i class="material-icons">folder_shared</i> */}
             Nicholas Zabkar
             </h3>

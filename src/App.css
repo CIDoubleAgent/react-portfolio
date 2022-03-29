@@ -149,11 +149,19 @@ body::-webkit-scrollbar {
   .card-action {
     font-size: 12px;
   }
+  
+  .project-card {
+    height: 450px;
+  }
 }
 
 @media screen and (max-width: 1253px) {
   .card-action {
     font-size: 10px;
+  }
+  
+  .project-card {
+    height: 400px;
   }
 }
 
@@ -172,6 +180,10 @@ body::-webkit-scrollbar {
 @media screen and (max-width: 992px) {
   .card-action {
     font-size: 15px;
+  }
+
+  .project-card {
+    height: auto;
   }
 }
 
@@ -219,7 +231,7 @@ body::-webkit-scrollbar {
   }
 
   .card-action {
-    font-size: 8px;
+    font-size: 7px;
   }
 }
 
