@@ -11,7 +11,7 @@ function Contact() {
             <section id="contact-info" class="center-align">
                 <div class="col 12">
                     <a id="small-text" class="footer-text cyan-text" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nzabkar51@gmail.com">
-                        {/* &nbsp; nzabkar51@gmail.com &nbsp; */}
+                        &nbsp; nzabkar51@gmail.com &nbsp;
                     </a>
                 </div>
             </section>
