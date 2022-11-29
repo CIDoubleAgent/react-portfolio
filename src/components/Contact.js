@@ -10,7 +10,7 @@ function Contact() {
 
             <section id="contact-info" class="center-align">
                 <div class="col 12">
-                    <a id="small-text" class="footer-text cyan-text" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nickz51dev@gmail.com">
+                    <a id="small-text" class="footer-text cyan-text" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nickz51dev@gmail.com" target="_blank" rel="noopener noreferrer">
                         &nbsp; nickz51dev@gmail.com &nbsp;
                     </a>
                 </div>
