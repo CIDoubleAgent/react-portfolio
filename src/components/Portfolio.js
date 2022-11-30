@@ -46,7 +46,7 @@ function Portfolio() {
                     </div>
                 </article>
                 
-                <article class="col s12 m8 offset-m2 l5 offset-l1">
+                {/* <article class="col s12 m8 offset-m2 l5 offset-l1">
                     <div class="project-card black card hoverable">
                     <div class="card-title white-text">
                         Kan(way)e
@@ -62,7 +62,7 @@ function Portfolio() {
                             <a class="cyan-text right" href="https://github.com/CIDoubleAgent/STANK-Music" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
                         </div>
                     </div>
-                </article>
+                </article> */}
 
                 <article class="col s12 m8 offset-m2 l5">
                     <div class="project-card black card hoverable">
