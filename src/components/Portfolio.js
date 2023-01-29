@@ -112,7 +112,7 @@ function Portfolio() {
                             <p>A back end application that generates a team profile based on user input.</p>
                         </div>
                         <div class="card-action">
-                            <a class="cyan-text">No Deployed Version</a>
+                            <p class="cyan-text">NO DEPLOYED VERSION</p>
                             <a class="cyan-text right" href="https://github.com/CIDoubleAgent/My-Team-Profile-Generator" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
                         </div>
                     </div>

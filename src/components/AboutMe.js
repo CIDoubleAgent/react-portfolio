@@ -14,10 +14,11 @@ function AboutMe() {
                     <img id="profile-image" src="https://github.com/CIDoubleAgent/Nicks-Web-Dev-Portfolio/blob/main/images/profilePicMe_1.jpg?raw=true" alt="Nicholas Zabkar" />
                 </div>
                     <div class="bio flow-text">
-                    I am a 36 year old web developer from Dover, NH and have been a carpenter by trade for most of my career. My hobbies include hiking the many beautiful trails and mountains of New Hampshire, playing basketball, wakeboarding, enjoying craft beer, and poking holes in movie plots.
+                    I am a web developer from Dover New Hampshire and have been a carpenter by trade for most of my career. My hobbies include hiking the many beautiful trails and mountains of New Hampshire, playing basketball, wakeboarding, enjoying craft beer, and poking holes in movie plots.
                     </div>
                     <div class="skills flow-text">
-                    Skills: I have experience in html, css, javascript ES6+, jQuery, SQL, GraphQL, node.js and React.js.
+                    Skills: I have experience with HTML 5, CSS 3, javascript ES6+, jQuery, SQL, GraphQL, Sass, node and React.<br></br>
+                    Tools: React, Sass, Materialize, Mongodb, Express, Sequelize
                     </div>
                 </div>
             </section>

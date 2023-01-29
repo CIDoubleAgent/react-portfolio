@@ -42,11 +42,11 @@ body::-webkit-scrollbar {
 /* About Me Section */
 #about-me {
   margin-bottom: 30px;
+  font-weight: 350;
+
 }
 
 #profile-image {
-  /* border: solid;
-  border-color: #00bcd4; */
   border-radius: 7px;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -54,17 +54,12 @@ body::-webkit-scrollbar {
 }
 
 .bio {
-  font-size: 23px;
   margin-left: 30px;
   margin-bottom: 30px;
-  font-weight: 350;
 }
 
 .skills {
-  font-size: 23px;
-  font-weight: 350;
-  margin: 0px 30px 30px
-  30px;
+  margin: 0px 30px 30px 30px;
   padding-bottom: 30px;
 }
 
@@ -83,13 +78,13 @@ body::-webkit-scrollbar {
   border-color: #00bcd4;
 }
 
-/* .card-content {
-  height: 140px;
-} */
-
 .card-title {
-  margin-left: 10px;
-  margin-bottom: 5px;
+  padding: 24px;
+}
+
+.card-action p {
+  display: inline-block;
+  margin: 0;
 }
 
 #work {
